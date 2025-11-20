@@ -1,9 +1,60 @@
-Rom PCU Instructions (which pin to activate) 
-
-0 - Kepp all WE off 
-1 - Open WE for A1 and B1 
-2 - Open WE for A2 and B2 and R1 
-3 - Open WE for A3 and B3 and R2 and open Buffer1
-4 - Open WE for A4 and B4 and R3 and open Buffer 2 
-5 - Open WE for A1 and B1 and R4 and open Buffer 3
-6 - Open WE for A2 and B2 and R1 and open Buffer 4 
+8000
+8000
+4000
+2000
+1000
+8800
+8000
+4000
+2000
+1000
+0400
+0081
+0041
+0021
+0011
+0002
+8000
+8000
+4000
+2000
+1000
+8800
+8000
+4000
+2000
+1000
+0481
+0041
+0021
+0011
+8000
+8000
+4000
+2000
+1000
+8800
+4000
+2000
+1000
+0400
+0081
+0041
+0021
+0011
+8004
+8000
+8000
+4000
+2000
+1000
+8800
+8000
+4000
+2000
+1000
+0400
+0081
+0041
+0021
+0011
